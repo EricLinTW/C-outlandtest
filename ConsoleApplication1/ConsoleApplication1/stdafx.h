@@ -7,8 +7,12 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
+#include "stdio.h"
+#include "tchar.h"
+#include "iostream"
+#include "cstdlib"
+#include "string"
+#include "cstring"
 
 
 
